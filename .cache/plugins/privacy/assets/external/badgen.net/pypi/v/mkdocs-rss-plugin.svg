@@ -1,20 +1,20 @@
-<svg width="85.8" height="20" viewBox="0 0 858 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="pypi: v1.12.2">
-  <title>pypi: v1.12.2</title>
-  <linearGradient id="mooIe" x2="0" y2="100%">
+<svg width="85.8" height="20" viewBox="0 0 858 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="pypi: v1.15.0">
+  <title>pypi: v1.15.0</title>
+  <linearGradient id="BLYon" x2="0" y2="100%">
     <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
     <stop offset="1" stop-opacity=".1"/>
   </linearGradient>
-  <mask id="btoiJ"><rect width="858" height="200" rx="30" fill="#FFF"/></mask>
-  <g mask="url(#btoiJ)">
+  <mask id="OFzyE"><rect width="858" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#OFzyE)">
     <rect width="333" height="200" fill="#555"/>
     <rect width="525" height="200" fill="#08C" x="333"/>
-    <rect width="858" height="200" fill="url(#mooIe)"/>
+    <rect width="858" height="200" fill="url(#BLYon)"/>
   </g>
   <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
     <text x="60" y="148" textLength="233" fill="#000" opacity="0.25">pypi</text>
     <text x="50" y="138" textLength="233">pypi</text>
-    <text x="388" y="148" textLength="425" fill="#000" opacity="0.25">v1.12.2</text>
-    <text x="378" y="138" textLength="425">v1.12.2</text>
+    <text x="388" y="148" textLength="425" fill="#000" opacity="0.25">v1.15.0</text>
+    <text x="378" y="138" textLength="425">v1.15.0</text>
   </g>
   
 </svg>
